@@ -1,2 +1,2 @@
-# Easy-Elegant-Landing-Page-With-Blur-Effect
+# Easy elegant landing page with blur effect
 Nice project using HTML & CSS, from Travery Media.
